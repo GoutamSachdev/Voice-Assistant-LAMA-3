@@ -87,7 +87,7 @@ We welcome contributions to Goti! If you have suggestions, improvements, or bug 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the @gksachdev46@gmail.com  Goutam Sachdev.
 
 ## Acknowledgements
 
